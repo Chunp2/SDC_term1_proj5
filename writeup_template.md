@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 [image4]: ./images/slidingwindow.png
 [image5]: ./images/slidingwindow.png
 [image6]: ./images/heatmap.png
-[image7]: ./images/labels_map.png
+[image7]: ./images/labels.png
 [image8]: ./images/car_pos.png
 [video1]: ./project_video.mp4
 
